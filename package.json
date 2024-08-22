@@ -1,0 +1,25 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6",
+    "@truffle/hdwallet-provider": "^1.0.37",
+    "dotenv": "^8.2.0",
+    "lite-server": "^2.6.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "underscore": "^1.12.1"
+  }
+}
